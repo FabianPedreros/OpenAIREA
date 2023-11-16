@@ -125,7 +125,7 @@ with tab2:
         
     st.markdown('### Paso 2: Ingresa tu idea preliminar del REA.')
 
-    REA_usuario = st.text_input('Ingrese el REA')
+    REA_usuario = st.text_area('Ingrese el REA')
 
 
     if st.button('Corregir REA'):
