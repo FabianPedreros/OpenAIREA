@@ -12,7 +12,7 @@ tab1, tab2 = st.tabs(["Creacion de REAs", "Correcion de REAs"])
 
 with tab1:
 
-    st.header('Creacion de Resultaados de Aprendizaje asistidos por IA')
+    st.header('Creacion de Resultados de Aprendizaje asistidos por IA')
     st.markdown('''Crea tus REA ayudado por la Inteligencia Artificial. 
                 Necesitarás ingresar una información base y te ayudaremos con ideas que 
                 más tarde podrás refinar y modificar según tus necesidades y conocimiento.''')
