@@ -141,7 +141,7 @@ with tab2:
                 El verbo usado debe demostrar acción.
                 Se deben evitar términos como: "saber", "comprender", "aprender", "estar familiarizado con", "estar expuesto a" y "estar consciente de"
                 El verbo utilizado se debe enmarcar en alguna de las dos categorías propuestas según el MEDIT de la Universidad de Cundinamarca: aplicar o crear
-                El REA debe estar conformado por cuatro elementos esenciales: verbo + objeto + nivel + contexto
+                El REA debe estar conformado por cuatro elementos esenciales: verbo + objeto + estrategia + contexto
                 Los REA han de centrarse en resultados y no en procesos. Es decir, se deben centrar en lo que el participante es capaz de demostrar.
                 El REA debe ser observable y medible.
                 Se debe utilizar un lenguaje claro pero formal, propio de un docente. 
