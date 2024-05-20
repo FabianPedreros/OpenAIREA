@@ -4,6 +4,8 @@ import streamlit as st
 from dotenv import load_dotenv
 load_dotenv()
 
+from openai.types import Completion
+
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 st.set_page_config(page_title='Creacion de REAs')
@@ -93,7 +95,7 @@ with tab1:
             for instrucciones in prompts:
                 messages.append({'role' : 'user', 'content' : instrucciones})
 
-                response = openai.ChatCompletion.create(
+                response = openai.chat.completions.create(
                     model = 'gpt-3.5-turbo',
                     messages = messages,
                     temperature = 0.8
